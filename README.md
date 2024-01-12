@@ -6,7 +6,7 @@ I'm sure it could be optimized further, but I don't really have the rust / bevy 
 | OS | Original Size | Bevy Size |
 | -- | ------------- | --------- |
 | Linux | 24.1 MB | 17.8 MB |
-| Windows | 68 MB MB | 15.0 MB |
+| Windows | 68 MB | 15.0 MB |
 
 ### Screenshots
 
